@@ -2,4 +2,5 @@ test new file
 blabla
 ligne3
 ligne5
+ligne 4
 
